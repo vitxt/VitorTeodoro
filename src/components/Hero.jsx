@@ -22,7 +22,7 @@ export default function Hero() {
     {
       title: "Goals",
       description:
-        "I aim for a Software Engineer internship opportunity to build robust backend solutions, focusing on scalable and effective code."
+        "To inspire and connect our community, dedicating my work to innovative research and practical applications."
     },
     {
       title: "Stack",
